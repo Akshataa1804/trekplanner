@@ -248,9 +248,6 @@ public class createtrekA extends javax.swing.JFrame {
         jPanel1.add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(750, 610, 180, 30));
 
         lblBgrnd.setIcon(new javax.swing.ImageIcon(getClass().getResource("/createtrek/bgmtresizeddddd.jpg"))); // NOI18N
-        lblBgrnd.setMaximumSize(new java.awt.Dimension(1080, 720));
-        lblBgrnd.setMinimumSize(new java.awt.Dimension(1080, 720));
-        lblBgrnd.setPreferredSize(new java.awt.Dimension(1080, 720));
         jPanel1.add(lblBgrnd, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, -50, 1230, 760));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
